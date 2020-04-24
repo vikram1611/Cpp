@@ -49,6 +49,10 @@ int main()
       cout<<"Name of array: "<< test_score<< endl;
       // No bound check example
        cout<< "No bound Check for array in c++ given garbage value if index is out of range:"<< " "<<test_score[10]<<endl;
+	
+     int size_array = sizeof(test_score)/sizeof(test_score[0]);
+       
+     cout<<"size of array: "<< size_array<< endl;
     
 	return 0;
 }
