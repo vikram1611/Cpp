@@ -1,6 +1,8 @@
 #include <iostream>
 #include <vector> // Always add include library when using vector
 
+//Refrence: https://en.cppreference.com/w/cpp/container/vector
+
 using namespace std;
 int main()
 {
