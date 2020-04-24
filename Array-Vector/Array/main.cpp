@@ -21,7 +21,7 @@ int main()
      
 	// Array Declaration
     // Element_type array_name[Constant number of array];
-    
+    //https://en.cppreference.com/w/c/language/array_initialization
     int test_score_uninitlized [5]; // not intilized
     
     int test_score [5] {1,2,3,4,5};
