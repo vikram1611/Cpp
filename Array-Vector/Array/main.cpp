@@ -14,7 +14,9 @@ int main()
        First element index 0
        Last element index size -1
        No bound checked
-       Always initlize array as it will contain garbage value*/
+       Always initlize array as it will contain garbage value
+       Array element can be accesed using o(1) complexity
+       Search 0(log n)*/
     
      
 	// Array Declaration
