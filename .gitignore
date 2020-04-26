@@ -30,7 +30,6 @@
 *.exe
 *.out
 *.app
-Array-Vector/.vscode
 Array-Vector/.codelite
 Array-Vector/.clang
-Array-Vector/Vectors/Vectors.project
+Array-Vector/Array-Vector.workspace
