@@ -14,12 +14,14 @@ int main()
        First element index 0
        Last element index size -1
        No bound checked
-       Always initlize array as it will contain garbage value*/
+       Always initlize array as it will contain garbage value
+       Array element can be accesed using o(1) complexity
+       Search 0(log n)*/
     
      
 	// Array Declaration
     // Element_type array_name[Constant number of array];
-    
+    //https://en.cppreference.com/w/c/language/array_initialization
     int test_score_uninitlized [5]; // not intilized
     
     int test_score [5] {1,2,3,4,5};
@@ -47,6 +49,10 @@ int main()
       cout<<"Name of array: "<< test_score<< endl;
       // No bound check example
        cout<< "No bound Check for array in c++ given garbage value if index is out of range:"<< " "<<test_score[10]<<endl;
+	
+     int size_array = sizeof(test_score)/sizeof(test_score[0]);
+       
+     cout<<"size of array: "<< size_array<< endl;
     
 	return 0;
 }
