@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="PointerAndRefrences" Database="" Version="10000">
+  <Project Name="SimplePointer" Path="SimplePointer/SimplePointer.project" Active="Yes"/>
+  <Project Name="DynamicAllocation-heap" Path="DynamicAllocation-heap/DynamicAllocation-heap.project" Active="No"/>
+  <Project Name="PointerAndArray" Path="PointerAndArray/PointerAndArray.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="SimplePointer" ConfigName="Debug"/>
+      <Project Name="DynamicAllocation-heap" ConfigName="Debug"/>
+      <Project Name="PointerAndArray" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="SimplePointer" ConfigName="Release"/>
+      <Project Name="DynamicAllocation-heap" ConfigName="Release"/>
+      <Project Name="PointerAndArray" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

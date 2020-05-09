@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="HackerRank" Database="" Version="10000">
+  <Project Name="Question-1" Path="Question-1/Question-1.project" Active="No"/>
+  <Project Name="Question-2" Path="Question-2/Question-2.project" Active="Yes"/>
+  <Project Name="Question-3" Path="Question-3/Question-3.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Question-1" ConfigName="Debug"/>
+      <Project Name="Question-2" ConfigName="Debug"/>
+      <Project Name="Question-3" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Question-1" ConfigName="Release"/>
+      <Project Name="Question-2" ConfigName="Release"/>
+      <Project Name="Question-3" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
