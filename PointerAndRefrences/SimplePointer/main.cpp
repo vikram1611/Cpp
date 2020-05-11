@@ -16,7 +16,7 @@ int main()
     
     int * returValue = poinet();
     
-    cout <<"returValue "<<*returValue<<endl; 
+    cout <<"returValue "<<*returValue<<endl; //segmanetation fault
 	int num {10};
     cout<<"Value of num "<<num<<endl;
     cout<<"Size of num "<<sizeof num<<endl;

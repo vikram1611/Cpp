@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="class" Database="" Version="10000">
+  <Project Name="AccessSpecifier" Path="AccessSpecifier/AccessSpecifier.project" Active="No"/>
+  <Project Name="implementingMemberMethod" Path="implementingMemberMethod/implementingMemberMethod.project" Active="Yes"/>
+  <Project Name="constructorDestructor" Path="constructorDestructor/constructorDestructor.project" Active="No"/>
+  <Project Name="constructor_defaultValue" Path="constructor_defaultValue/constructor_defaultValue.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="AccessSpecifier" ConfigName="Debug"/>
+      <Project Name="implementingMemberMethod" ConfigName="Debug"/>
+      <Project Name="constructorDestructor" ConfigName="Debug"/>
+      <Project Name="constructor_defaultValue" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="AccessSpecifier" ConfigName="Release"/>
+      <Project Name="implementingMemberMethod" ConfigName="Release"/>
+      <Project Name="constructorDestructor" ConfigName="Release"/>
+      <Project Name="constructor_defaultValue" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
