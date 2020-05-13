@@ -31,7 +31,7 @@ class
 {
     string t;
     
-}obj1; //anaomynous class everthing public default access public
+}obj1; //anaomynous class everthing public default access pub
 
 class checkSize
 {
@@ -49,6 +49,7 @@ int main()
     //empty empObj;
     
     std::cout<<"size of "<<sizeof obj1<<endl;
+    
 	delete accountObj;
     
     Player obj;

@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="class" Database="" Version="10000">
   <Project Name="AccessSpecifier" Path="AccessSpecifier/AccessSpecifier.project" Active="No"/>
-  <Project Name="implementingMemberMethod" Path="implementingMemberMethod/implementingMemberMethod.project" Active="Yes"/>
+  <Project Name="implementingMemberMethod" Path="implementingMemberMethod/implementingMemberMethod.project" Active="No"/>
   <Project Name="constructorDestructor" Path="constructorDestructor/constructorDestructor.project" Active="No"/>
   <Project Name="constructor_defaultValue" Path="constructor_defaultValue/constructor_defaultValue.project" Active="No"/>
+  <Project Name="CopyConstructor" Path="CopyConstructor/CopyConstructor.project" Active="No"/>
+  <Project Name="ShallowCopy" Path="ShallowDeepCopy/ShallowDeepCopy.project" Active="Yes"/>
+  <Project Name="MoverConstructor" Path="MoverConstructor/MoverConstructor.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -11,6 +14,9 @@
       <Project Name="implementingMemberMethod" ConfigName="Debug"/>
       <Project Name="constructorDestructor" ConfigName="Debug"/>
       <Project Name="constructor_defaultValue" ConfigName="Debug"/>
+      <Project Name="CopyConstructor" ConfigName="Debug"/>
+      <Project Name="ShallowCopy" ConfigName="Debug"/>
+      <Project Name="MoverConstructor" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -18,6 +24,9 @@
       <Project Name="implementingMemberMethod" ConfigName="Release"/>
       <Project Name="constructorDestructor" ConfigName="Release"/>
       <Project Name="constructor_defaultValue" ConfigName="Release"/>
+      <Project Name="CopyConstructor" ConfigName="Release"/>
+      <Project Name="ShallowCopy" ConfigName="Release"/>
+      <Project Name="MoverConstructor" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ implementingMemberMethod - Debug ]----------"
-	@cd "implementingMemberMethod" && "$(MAKE)" -f  "implementingMemberMethod.mk"
+	@echo "----------Building project:[ ShallowCopy - Debug ]----------"
+	@cd "ShallowDeepCopy" && "$(MAKE)" -f  "ShallowCopy.mk"
 clean:
-	@echo "----------Cleaning project:[ implementingMemberMethod - Debug ]----------"
-	@cd "implementingMemberMethod" && "$(MAKE)" -f  "implementingMemberMethod.mk" clean
+	@echo "----------Cleaning project:[ ShallowCopy - Debug ]----------"
+	@cd "ShallowDeepCopy" && "$(MAKE)" -f  "ShallowCopy.mk" clean
